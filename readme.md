@@ -13,8 +13,8 @@
 
 ## Live Link of the Project:
 
-[Live Project Link]()
+[Live Project Link](https://mk-shopify.netlify.app/)
 
 ## Output:
 
-![Wireless Headphone]()
+![Wireless Headphone](./17.png)
