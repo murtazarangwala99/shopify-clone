@@ -1,8 +1,13 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: [],
+  content: ["*"],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        shopifyLightGreen: "#008060",
+        shopifyGreen: "#004c3f",
+      },
+    },
   },
   plugins: [],
-}
+};
